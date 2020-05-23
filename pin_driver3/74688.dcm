@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74688
+D 8-bit Comparator
+K TTL DECOD Arith
+F http://www.ti.com/lit/gpn/sn74LS688
+$ENDCMP
+#
+$CMP 74HC688
+D 8-bit Comparator
+K HC DECOD Arith
+F http://www.ti.com/lit/gpn/sn74LS688
+$ENDCMP
+#
+#End Doc Library

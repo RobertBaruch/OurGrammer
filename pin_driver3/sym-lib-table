@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name conn_02x18_row_capletter_first)(type Legacy)(uri ${KIPRJMOD}/conn_02x18_row_capletter_first.lib)(options "")(descr ""))
+)

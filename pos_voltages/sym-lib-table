@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name voltages-rescue)(type Legacy)(uri ${KIPRJMOD}/voltages-rescue.lib)(options "")(descr ""))
+)

@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name w25q16bvss)(type Legacy)(uri ${KIPRJMOD}/w25q16bvss.lib)(options "")(descr ""))
+)

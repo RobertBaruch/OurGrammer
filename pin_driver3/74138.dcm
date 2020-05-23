@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 74238
+D Decoder 3 to 8 active high outputs
+K TTL DECOD DECOD8
+F http://www.ti.com/lit/gpn/sn74LS138
+$ENDCMP
+#
+$CMP 74HC238
+D Decoder 3 to 8 active high outputs
+K HC DECOD DECOD8
+F http://www.ti.com/lit/gpn/sn74LS138
+$ENDCMP
+#
+#End Doc Library
